@@ -164,6 +164,10 @@ button:hover {
   background-color: #3949ab;
 }
 
+#auth-container {
+  margin-bottom: 30px;
+}
+
 .message {
   margin-top: 20px;
   padding: 10px;
